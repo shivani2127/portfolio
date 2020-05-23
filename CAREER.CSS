@@ -1,0 +1,22 @@
+body{
+    background-image: url("3.png");
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: 1370px 650px;
+}
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: xx-large;
+    padding-bottom: 25px;
+    color: black;
+}
+h2{
+    text-align: left;
+font-family: 'Times New Roman', Times, serif;
+font-size: xx-large;
+font-weight: 900;
+color: black;
+}
+© 2020 GitHub, Inc.

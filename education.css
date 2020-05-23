@@ -1,0 +1,14 @@
+body{
+    background-image: url("study.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 1400px 750px;
+}
+h2{
+        text-align: left;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: 2000;
+        font-weight: bolder;
+        font-size: xx-large;
+        color: black;
+}
